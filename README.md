@@ -7,7 +7,6 @@
 ###
 
 <h2 align="left"> 📚 About me</h2>
-<p> I'm always looking to learn new technologies and improve my development skills. On my GitHub, you will find projects that I have developed throughout my academic and personal journey. </p>
 
 ###
 
