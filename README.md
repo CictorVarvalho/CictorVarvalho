@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java/Spring Boot<br>
+<p align="left">✨ Creating bugs since 2022<br
 
 ###
 
